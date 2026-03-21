@@ -1,3 +1,6 @@
+<img width="1079" height="1208" alt="Screenshot_20260321-164617" src="https://github.com/user-attachments/assets/b261a6c5-009c-4832-86cb-170e80ece1cb" />
+
+
 # VibeMeet
 
 A modern real-time video conference application with virtual backgrounds and beauty filters.
