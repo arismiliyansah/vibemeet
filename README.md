@@ -83,6 +83,15 @@ This will build the frontend and prepare it for deployment.
 
 ## Environment Variables
 
+Create a `.env` file in the frontend directory:
+
+```env
+VITE_BACKEND_URL=
+VITE_TURN_URL=turn:relay.metered.ca:80
+VITE_TURN_USER=your_username
+VITE_TURN_PASS=your_password
+```
+
 Create a `.env` file in the backend directory:
 
 ```env
